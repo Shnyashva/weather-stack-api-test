@@ -10,26 +10,26 @@
   "lon": "-74.006",
   "timezone_id": "America/New_York",
   "localtime": "2023-07-26 06:08",
-  "localtime_epoch": 1690351680,
+  "localtime_epoch": "1690351680",
   "utc_offset": "-4.0",
   "observation_time": "10:08 AM",
-  "temperature": 20,
-  "weather_code": 113,
+  "temperature": "20",
+  "weather_code": "113",
   "weather_icons": [
     "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
   ],
   "weather_descriptions": [
     "Sunny"
   ],
-  "wind_speed": 4,
-  "wind_degree": 266,
+  "wind_speed": "4",
+  "wind_degree": "266",
   "wind_dir": "W",
-  "pressure": 1020,
-  "precip": 0,
-  "humidity": 90,
-  "cloudcover": 0,
-  "feelslike": 20,
-  "uv_index": 4,
-  "visibility": 11,
+  "pressure": "1020",
+  "precip": "0",
+  "humidity": "90",
+  "cloudcover": "0",
+  "feelslike": "20",
+  "uv_index": "4",
+  "visibility": "11",
   "is_day": "yes"
 }
